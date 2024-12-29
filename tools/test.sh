@@ -1,7 +1,7 @@
 #!/bin/sh
 
 dir=`dirname "$0"`
-bin=$dir/../qbe
+bin=$dir/../build/qbe
 binref=$dir/../qbe.ref
 
 tmp=/tmp/qbe.zzzz

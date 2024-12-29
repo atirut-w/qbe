@@ -1,5 +1,4 @@
-*.o
-qbe
+build/
 config.h
-.comfile
-*.out
+.cache
+compile_commands.json
